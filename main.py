@@ -881,6 +881,22 @@
 
 # ===========================================================================================
 
+# data_nasc = input("Informe sua Data de Nascimento: ")
+# soma = 0
+# total_final = 0
+# for numData in data_nasc:
+#     soma += int(numData)
+
+# for numSoma in str(soma):
+#     total_final += int(numSoma)
+
+# print(total_final)
+
+# ==============================================================================================
+
+
+
+
 
 
 
